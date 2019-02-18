@@ -10,7 +10,7 @@ import javax.persistence.*;
 public class ContactTelDetail {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private long id;
+    private Long id;
 
     @Version
     private int version;

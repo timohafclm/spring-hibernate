@@ -18,6 +18,6 @@ insert into hobby(hobby_id) values ('Programming');
 insert into hobby(hobby_id) values ('Movies');
 insert into hobby(hobby_id) values ('Reading');
 
-insert into contact_hobby_detail (contact_id, hobby_id) values (1, "Swimming");
-insert into contact_hobby_detail (contact_id, hobby_id) values (1, "Movies");
-insert into contact_hobby_detail (contact_id, hobby_id) values (2, "Swimming");
+insert into contact_hobby_detail (contact_id, hobby_id) values (1, 'Swimming');
+insert into contact_hobby_detail (contact_id, hobby_id) values (1, 'Movies');
+insert into contact_hobby_detail (contact_id, hobby_id) values (2, 'Swimming');
